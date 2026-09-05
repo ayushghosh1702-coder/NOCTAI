@@ -1,0 +1,6 @@
+{
+  "name": "ProjectMentor AI",
+  "description": "AI-powered final-year project mentorship platform for college students to discover, plan, build, and defend engineering projects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
